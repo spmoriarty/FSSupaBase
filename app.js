@@ -16,7 +16,7 @@ import { getXXX } from "./fetch.js";
 
     for (let abc for XXX) {
       const abcDIV = renderFx(abc)
-    }
-  }
+    };
+  };
 
   loadData();
